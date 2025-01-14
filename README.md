@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Md. Ashiqul Islam (Sadif)**  
 ### **Full-Stack Developer | Problem Solver | Competitive Programmer**  
-![Banner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)  
+![Banner](https://i.postimg.cc/yxhPpRLQ/Ashiqul-Islam-Sadif.jpg)  
 
 ---
 
